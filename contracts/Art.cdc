@@ -99,3 +99,4 @@ pub contract Art: NonFungibleToken {
 	}
 }
 
+ 
